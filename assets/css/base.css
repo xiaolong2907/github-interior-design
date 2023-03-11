@@ -1,0 +1,14 @@
+:root {
+    --main-color: #f44336;
+    --white-color: #fff;
+    --text-color: #000;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
